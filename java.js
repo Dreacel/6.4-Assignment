@@ -6,5 +6,3 @@ const person = {
     return this.firstName + " " + this.lastName;
   }
 };
-
-console.log(person.fullName);
