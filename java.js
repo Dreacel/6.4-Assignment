@@ -4,9 +4,9 @@ const person = {
     age: 21,
     eyeColors: "brown"
 
-    sayName: function() {
+    sayfristName: function() {
         console.log(this.firstName)
     }
 };
 
-user.sayName();
+user.sayfristName();
