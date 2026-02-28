@@ -4,9 +4,9 @@ const person = {
     age: 21,
     eyeColors: "brown",
 
-    diaplay: function() {
-        console.log(this.Name+''+this.lastName);
+    sayName: function() {
+        console.log(this.Name);
     }
 };
 
-person.display();
+person.sayName();
