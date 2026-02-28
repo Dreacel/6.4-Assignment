@@ -1,12 +1,12 @@
 const person = {
-    firstName: "lumi",
+    Name: "lumi",
     lastName: "nightgale",
     age: 21,
-    eyeColors: "brown"
+    eyeColors: "brown",
 
-    sayfristName: function() {
-        console.log(this.firstName)
+    sayName: function() {
+        console.log(this.Name);
     }
 };
 
-user.sayfristName();
+user.sayName();
