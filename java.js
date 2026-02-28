@@ -5,8 +5,9 @@ const person = {
     eyeColors: "brown",
 
     sayName: function() {
-        console.log(this.Name);
+        console.log(this.Name+''+this.lastName);
     }
 };
 
 person.sayName();
+person.saylastName();
