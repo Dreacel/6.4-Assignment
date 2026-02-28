@@ -9,4 +9,4 @@ const person = {
     }
 };
 
-user.sayName();
+person.sayName();
