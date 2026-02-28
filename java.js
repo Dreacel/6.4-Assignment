@@ -3,6 +3,6 @@ const person = {
     lastName: "nightgale",
     age: 21,
     Display: function() {
-    console.log(this.firstName + " " + this.lastName;) 
+    console.log(this.firstName + " " + this.lastName) 
   }
 };
