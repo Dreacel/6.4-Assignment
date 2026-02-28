@@ -7,4 +7,4 @@ const person = {
   }
 };
 
-console.log
+console.log(person.fullName);
