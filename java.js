@@ -14,3 +14,5 @@ person.sayName();
 const food = ["Sushi","Salad","Lasagna","Chicken Nuggets",];
 
 food.push("Pizza");
+
+console.log(food);
