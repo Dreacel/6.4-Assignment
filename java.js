@@ -11,4 +11,6 @@ const person = {
 
 person.sayName();
 
-const food = ["sushi","Salad","Lasagna","Chicken Nuggets",]
+const food = ["Sushi","Salad","Lasagna","Chicken Nuggets",];
+
+food.push("Pizza");
