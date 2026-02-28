@@ -10,4 +10,3 @@ const person = {
 };
 
 person.sayName();
-person.saylastName();
