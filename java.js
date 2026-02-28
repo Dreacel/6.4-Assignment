@@ -2,7 +2,7 @@ const person = {
     firstName: "lumi",
     lastName: "nightgale",
     age: 21,
-    fullName: function() {
-    return this.firstName + " " + this.lastName;
+    Display: function() {
+    console.log(this.firstName + " " + this.lastName;) 
   }
 };
